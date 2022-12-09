@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://visitor-badge.laobi.icu/badge?page_id=Paul Ndalila.Ndaliz)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulNdalila7&theme=radical)
 
 <p align="center">
