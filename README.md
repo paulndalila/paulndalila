@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=PaulNdalila7&hide=php&theme=tokyonight)
 -->
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=PaulNdalila7&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=PaulNdalila7&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api?username=PaulNdalila7&theme=radical">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=PaulNdalila7&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulNdalila7&hide=php&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulNdalila7&hide=php&theme=tokyonight" />
