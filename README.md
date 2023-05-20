@@ -10,19 +10,7 @@
 </div>
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 ## 🧰 Languages and Tools:
 <div align="center">
