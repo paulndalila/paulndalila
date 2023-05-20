@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Paul
-<div>
+<div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=paulndalila&theme=radical">
     <img  align="left" src="https://github-readme-stats.vercel.app/api?username=paulndalila&count_private=true&show_icons=true&theme=radical" />
   </a>
