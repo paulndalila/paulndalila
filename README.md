@@ -30,9 +30,6 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulndalila&hide=php&theme=tokyonight" />
 </a>
 </div>
-[![Paul Ndali's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulndalila&count_private=true&show_icons=true&theme=radical)](https://github.com/paulndalila)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulndalila&hide=php&theme=tokyonight)](https://github.com/paulndalila)
 
 <br />
 
