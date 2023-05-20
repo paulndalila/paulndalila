@@ -1,10 +1,5 @@
 ### Hi there 👋 I'm Paul
-<div style="display: flex;">
-            <p>hello</p>
-            <p>hello</p>
-            <p>hello</p>
-</div>
-<div>
+<p>
   <a href="https://github-readme-stats.vercel.app/api?username=paulndalila&theme=radical">
     <img  align="left" src="https://github-readme-stats.vercel.app/api?username=paulndalila&count_private=true&show_icons=true&theme=radical" />
   </a>
@@ -12,7 +7,7 @@
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=paulndalila&hide=php&theme=tokyonight">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulndalila&hide=php&theme=tokyonight" />
   </a>
-</div>
+</p>
 
 ## 🧰 Languages and Tools:
 <p align="center">
