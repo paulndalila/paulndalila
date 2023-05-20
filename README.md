@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Paul
-<div style="display: flex">
+<div style="display: flex;">
             <p>hello</p>
             <p>hello</p>
             <p>hello</p>
