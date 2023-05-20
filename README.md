@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Paul
 
 <!--
-**PaulNdalila7/PaulNdalila7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**paulndalila/paulndalila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PaulNdalila7&theme=radical)        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulNdalila7&theme=tokyonight) -->
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulndalila&theme=radical)        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulndalila&theme=tokyonight) -->
 
 <!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=PaulNdalila7&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=PaulNdalila7&hide=php&theme=tokyonight)
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=paulndalila&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=paulndalila&hide=php&theme=tokyonight)
 -->
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=PaulNdalila7&theme=radical">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=PaulNdalila7&count_private=true&show_icons=true&theme=radical" />
+<a href="https://github-readme-stats.vercel.app/api?username=paulndalila&theme=radical">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=paulndalila&count_private=true&show_icons=true&theme=radical" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulNdalila7&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulNdalila7&hide=php&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=paulndalila&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulndalila&hide=php&theme=tokyonight" />
 </a>
 </div>
 
