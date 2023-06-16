@@ -1,16 +1,15 @@
 ### Hi there 👋
-<p align='left'>
-  <a href="https://github-readme-stats.vercel.app/api?username=paulndalila&theme=radical">
+<p width="100%">
+  <a width="45%" href="https://github-readme-stats.vercel.app/api?username=paulndalila&theme=radical">
     <img  align="left" src="https://github-readme-stats.vercel.app/api?username=paulndalila&count_private=true&show_icons=true&theme=radical" />
   </a>
 
-
-  
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=paulndalila&theme=tokyonight">
+  <a width="45%" href="https://github-readme-stats.vercel.app/api/top-langs/?username=paulndalila&theme=tokyonight">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulndalila&theme=tokyonight" />
   </a>
 </p>
 
+<img src="https://github-profile-trophy.vercel.app/?username=paulndalila&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
 <br/>
 
 <!--
