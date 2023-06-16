@@ -8,7 +8,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulndalila&theme=tokyonight" />
   </a>
 </p>
-
+<br/>
 <img src="https://github-profile-trophy.vercel.app/?username=paulndalila&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
 <br/>
 
