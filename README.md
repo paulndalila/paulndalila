@@ -4,14 +4,20 @@
     <img  align="left" src="https://github-readme-stats.vercel.app/api?username=paulndalila&count_private=true&show_icons=true&theme=radical" />
   </a>
 
-  <a width="45%" href="https://github-readme-stats.vercel.app/api/top-langs/?username=paulndalila&theme=tokyonight">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulndalila&theme=tokyonight" />
-  </a>
+  
 </p> -->
 <img src="https://github-profile-trophy.vercel.app/?username=paulndalila&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
 <br/>
 
-## 🧰 Languages and Tools:
+<p>
+  <a width="45%" href="https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact&theme=radical">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact&theme=radical" />
+  </a>
+</p>
+
+<br/>
+
+### 🧰 Languages and Tools:
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="40" style="vertical-align:top; margin:4px">
