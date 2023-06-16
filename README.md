@@ -10,8 +10,8 @@
 <br/>
 
 <p>
-  <a width="45%" href="https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact&theme=radical">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact&theme=radical" />
+  <a width="45%" href="https://github-readme-stats.vercel.app/api/top-langs/?username=paulndalila&layout=compact&theme=radical">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulndalila&layout=compact&theme=radical" />
   </a>
 </p>
 
