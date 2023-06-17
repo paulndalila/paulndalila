@@ -5,9 +5,9 @@
   </a>
 
   
-</p> -->
+</p>
 <img src="https://github-profile-trophy.vercel.app/?username=paulndalila&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
-<br/>
+<br/> -->
 
 <p>
   <a width="45%" href="https://github-readme-stats.vercel.app/api/top-langs/?username=paulndalila&layout=compact&theme=radical">
