@@ -1,12 +1,12 @@
 ### Hi there 👋
-<!-- <p width="100%">
+<p width="100%">
   <a width="45%" href="https://github-readme-stats.vercel.app/api?username=paulndalila&theme=radical">
     <img  align="left" src="https://github-readme-stats.vercel.app/api?username=paulndalila&count_private=true&show_icons=true&theme=radical" />
   </a>
 
   
 </p>
-<img src="https://github-profile-trophy.vercel.app/?username=paulndalila&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=paulndalila&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
 <br/> -->
 
 <p>
