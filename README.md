@@ -1,30 +1,13 @@
 ### Hi there 👋
-<p width="100%">
-  <a width="45%" href="https://github-readme-stats.vercel.app/api?username=paulndalila&theme=radical">
+<a href="https://github-readme-stats.vercel.app/api?username=paulndalila&theme=radical">
     <img  align="left" src="https://github-readme-stats.vercel.app/api?username=paulndalila&count_private=true&show_icons=true&theme=radical" />
-  </a>
-
-  
-</p>
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=paulndalila&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
-<br/> -->
+</a>
 
 <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=paulndalila&hide=html&langs_count=8&layout=compact&theme=radical&card_width=150" />
 </a>
 
 <br/>
-<br/>
-<br/>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 
 ### 🧰 Languages and Tools:
 <p align="center">
