@@ -9,11 +9,9 @@
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=paulndalila&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
 <br/> -->
 
-<p>
-  <a width="45%" href="https://github-readme-stats.vercel.app/api/top-langs/?username=paulndalila&layout=compact&theme=radical">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulndalila&layout=compact&theme=radical" />
-  </a>
-</p>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=paulndalila&hide=html&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
 
 <br/>
 <br/>
