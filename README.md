@@ -16,17 +16,6 @@
 
 ---
 
-### What I Do
-
-- **Backend:** Building REST APIs with Node.js, Express, and FastAPI
-- **Mobile:** Cross-platform apps with React Native and Expo
-- **Desktop:** Cross-platform desktop apps with Electron
-- **Frontend:** Responsive interfaces with React, Tailwind CSS, SCSS, and vanilla CSS
-- **Databases:** Designing and querying relational data in MySQL and PostgreSQL
-- **ML:** Python-based machine learning and serving models through APIs
-
----
-
 ### Skills & Tools
 
 **Languages**
