@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm Paul 👋</h1>
+<h1 align="left">Paul Ndalila</h1>
 
-<p align="center">
-  Full-stack developer building web, mobile, and desktop apps, with a side of machine learning.<br/>
-  I enjoy turning ideas into clean, scalable, well-designed products.
+<p align="left">
+  Full-stack developer. I build web, mobile, and desktop software,<br/>
+  and occasionally put machine learning behind an API.
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github-readme-stats.vercel.app/api?username=paulndalila&theme=radical">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=paulndalila&count_private=true&show_icons=true&theme=radical" />
   </a>
