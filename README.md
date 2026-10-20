@@ -1,7 +1,7 @@
 <h1 align="left">Paul Ndalila</h1>
 
 <p align="left">
-  Full-stack developer. I build web, mobile, and desktop software,<br/>
+  Software Engineer. I build web, mobile, and desktop software,<br/>
   and occasionally put machine learning behind an API.
 </p>
 
@@ -16,18 +16,18 @@
 
 ---
 
-### 🚀 What I Do
+### What I Do
 
-- 🖥️ **Backend:** Building REST APIs with Node.js, Express, and FastAPI
-- 📱 **Mobile:** Cross-platform apps with React Native and Expo
-- 💻 **Desktop:** Cross-platform desktop apps with Electron
-- 🎨 **Frontend:** Responsive interfaces with React, Tailwind CSS, SCSS, and vanilla CSS
-- 🗄️ **Databases:** Designing and querying relational data in MySQL and PostgreSQL
-- 🤖 **ML:** Python-based machine learning and serving models through APIs
+- **Backend:** Building REST APIs with Node.js, Express, and FastAPI
+- **Mobile:** Cross-platform apps with React Native and Expo
+- **Desktop:** Cross-platform desktop apps with Electron
+- **Frontend:** Responsive interfaces with React, Tailwind CSS, SCSS, and vanilla CSS
+- **Databases:** Designing and querying relational data in MySQL and PostgreSQL
+- **ML:** Python-based machine learning and serving models through APIs
 
 ---
 
-### 🧰 Skills & Tools
+### Skills & Tools
 
 **Languages**
 
@@ -38,7 +38,7 @@
 **Frontend & Styling**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,sass,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,sass,css" />
 </p>
 
 **Backend, APIs & Frameworks**
@@ -70,13 +70,13 @@
 
 ---
 
-### 📊 Skill Summary
+### Skill Summary
 
 | Area | Technologies |
 |------|--------------|
 | **Languages** | TypeScript, JavaScript, Java, PHP, Python, SQL |
 | **Backend** | Node.js, Express, FastAPI, REST APIs |
-| **Frontend** | React, Tailwind CSS, SCSS, Vanilla CSS, Bootstrap |
+| **Frontend** | React, Tailwind CSS, SCSS, Vanilla CSS |
 | **Mobile** | React Native, Expo |
 | **Desktop** | Electron |
 | **Databases** | MySQL, PostgreSQL |
@@ -84,7 +84,7 @@
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <p>
   <a href="https://github.com/paulndalila"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -92,8 +92,3 @@
   <a href="https://www.paulndalila.top"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/paul-ndalila-5140642b5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
-
-- 📧 **Email:** [paulndalila001@gmail.com](mailto:paulndalila001@gmail.com)
-- 🌐 **Portfolio:** [www.paulndalila.top](https://www.paulndalila.top)
-- 💼 **LinkedIn:** [in/paul-ndalila-5140642b5](https://www.linkedin.com/in/paul-ndalila-5140642b5/)
-- 🐙 **GitHub:** [@paulndalila](https://github.com/paulndalila)
