@@ -1,4 +1,4 @@
-<h1 align="left">Paul Ndalila</h1>
+<h1 align="left">About Me</h1>
 
 <p align="left">
   Software Engineer. I build web, mobile, and desktop software,<br/>
